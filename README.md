@@ -13,5 +13,6 @@ concepts involved in this project:
 4) Using the JSON package for manipulating the retrieved data from the API.
 5) Creating a Database and manipulating the database while retrieving information from API.
    The retrieved data is parsed and stored in the Database.
+6) The Database used here is Sqlite3. Sqlite3 package is available in Python3.
    
 

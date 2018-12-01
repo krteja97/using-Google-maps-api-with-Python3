@@ -5,6 +5,8 @@ Python Scripts for using Google Maps API's.
 Geocoding API offered by Google Maps sends back the location information for addresses that we request in JSON format.
 For using Google Maps API's one needs to have an API key.
 
+Without using the Package that GOOGLE MAPS have provided in python,by making use of the basic packages that are existing in Python3 we can finish this script.
+
 concepts involved in this project:
 
 1) reading and manipulating data from a file.
